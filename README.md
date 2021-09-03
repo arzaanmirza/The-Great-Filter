@@ -7,6 +7,8 @@ The Great Filter - A new way to consume news.
 A newsfeed showing you all the major issues relating to natural disasters and climate change from only trusted news sources. 
 
 Website: https://thegreatfilter.herokuapp.com/
+
+
 Codebase: https://github.com/arzaanmirza/The_Great_Filter
 
 Home Page:
